@@ -1,8 +1,8 @@
 {
-    "name": "phpclassic/php-shopify",
+    "name": "phpclassic/php-shopify-wc",
     "description": "PHP SDK for Shopify API",
     "keywords": ["PHP","Shopify","SDK"],
-    "homepage": "https://github.com/phpclassic/php-shopify",
+    "homepage": "https://github.com/Jinpo001/php-shopify-wc",
     "type": "library",
     "require": {
         "php": ">=5.6",
