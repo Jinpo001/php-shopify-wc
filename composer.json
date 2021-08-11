@@ -1,5 +1,5 @@
 {
-    "name": "php/php-shopify",
+    "name": "php-libraries/php-shopify",
     "description": "PHP SDK for Shopify API",
     "keywords": ["PHP","Shopify","SDK"],
     "homepage": "https://github.com/Jinpo001/php-shopify-wc",
